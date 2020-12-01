@@ -15,4 +15,4 @@ My name is Lu Yen-Ju. Here are my publications
 
 ### My story
 
-I had work in the MediaTek for two years. I am in the Academia Sinica this year. I have the research experience of Automatic Speech Recognition and Natural Language Processing and Reinforcement Learning. Besides, I am interested in the Robotics Control.
+I had worked in the MediaTek for two years. In this year, I am in the Academia Sinica. My research is focus on Automatic Speech Recognition and Natural Language Processing and Reinforcement Learning. Besides, I am interested in the Robotics Control in the future.
